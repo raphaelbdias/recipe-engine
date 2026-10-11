@@ -1,0 +1,15 @@
+{
+    "reYog1" : {
+        "recipeId":"yogurt_1",
+        "name":"Yougurt Bowl",
+        "ingredients":[
+            "Kirkland Greek Yougurt",
+            "Boreal Frozen Blueberries",
+            "Cut Frozen Strawberries",
+            "Noor Pitted Dates",
+            "Chia Seeds",
+            "Organic Honey",
+            "Pistachios"
+        ]
+    }
+}
